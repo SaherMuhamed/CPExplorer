@@ -1,0 +1,12 @@
+# Content Provider Explorer — Python dependencies
+# Core UI uses only stdlib tkinter (no extra packages required to run)
+# The packages below are only needed for building a standalone executable
+
+# --- Runtime (all stdlib, no pip needed) ---
+# tkinter  (built into Python on Windows/macOS; install python3-tk on Linux)
+
+# --- Build EXE (optional) ---
+pyinstaller>=6.0
+
+# --- Development / linting (optional) ---
+pyflakes
