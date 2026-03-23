@@ -1,14 +1,3 @@
-<div align="center">
-
-```
- ██████╗██████╗     ███████╗██╗  ██╗██████╗ ██╗      ██████╗ ██████╗ ███████╗██████╗
-██╔════╝██╔══██╗    ██╔════╝╚██╗██╔╝██╔══██╗██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
-██║     ██████╔╝    █████╗   ╚███╔╝ ██████╔╝██║     ██║   ██║██████╔╝█████╗  ██████╔╝
-██║     ██╔═══╝     ██╔══╝   ██╔██╗ ██╔═══╝ ██║     ██║   ██║██╔══██╗██╔══╝  ██╔══██╗
-╚██████╗██║         ███████╗██╔╝ ██╗██║     ███████╗╚██████╔╝██║  ██║███████╗██║  ██║
- ╚═════╝╚═╝         ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
-
 **Android Content Provider Recon & Exploitation Toolkit**
 
 *A professional-grade Python GUI for penetration testers to enumerate, query, and exploit Android Content Providers via ADB — without writing a single shell command by hand.*
@@ -54,6 +43,12 @@
 - [Project Structure](#project-structure)
 - [Disclaimer](#disclaimer)
 - [License](#license)
+
+---
+
+![](https://github.com/SaherMuhamed/CPExplorer/blob/main/screenshots/2026-03-23_02-38.png)
+![](https://github.com/SaherMuhamed/CPExplorer/blob/main/screenshots/2026-03-23_02-42.png)
+![](https://github.com/SaherMuhamed/CPExplorer/blob/main/screenshots/2026-03-23_02-42_1.png)
 
 ---
 
